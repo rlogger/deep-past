@@ -414,17 +414,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Deep Past Initiative and Kaggle for hosting the competition
 - Google Research for the mT5 pre-trained models
 - The Assyriology community for providing the training data
-- HuggingFace for the Transformers library
 
----
-
-## Contact
-
-For questions or collaboration:
-- **Email**: your.email@example.com
-- **GitHub Issues**: [Open an issue](https://github.com/your-username/deep-past-akkadian/issues)
-- **Kaggle Discussion**: [Competition Forum](https://www.kaggle.com/competitions/deep-past-initiative/discussion)
-
----
-
-**Last Updated**: December 2024
