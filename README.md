@@ -20,22 +20,6 @@ The model achieves competitive translation quality through:
 - Character-level and n-gram-level translation accuracy
 - Robust handling of morphologically complex Akkadian structures
 
----
-
-## Table of Contents
-
-- [Methodology](#methodology)
-- [Installation](#installation)
-- [Repository Structure](#repository-structure)
-- [Usage](#usage)
-- [Configuration](#configuration)
-- [Evaluation](#evaluation)
-- [Results](#results)
-- [References](#references)
-- [License](#license)
-
----
-
 ## Methodology
 
 ### Model Architecture
